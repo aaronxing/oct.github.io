@@ -1,24 +1,28 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+##Nice to meet U
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+Hey, friends ~ Here is my blog ☞  [[ Nice Shot ! ]](http://www.chen9.info/) 
 
-###[View Live Demo &rarr;](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/)
+Hope you can enjoy it :)
 
-## Before You Begin
+##IF YOU LIKE
 
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
+- **For Theme** 
 
-It should look like this:
-`baseurl: ""`
+    If you have some fantastic ideas or suggestions for this theme, you can go to the [Issues](https://github.com/zchen9/zchen9.github.io/issues) to write down them, maybe we could perfect it together. (๑•̀ㅂ•́)و✧
 
-## What's Included
+- **For Blog**
 
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
+    You can go to [my first post](http://www.chen9.info/new_start/2015/05/01/nice-to-meet-U.html), leave  a message for me or exchange link with me.
 
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to keep the Apache 2.0 license intact, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
+    And you can give me a **star** for this repository !~ ヽ(✿ﾟ▽ﾟ)ノ
 
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
+- **For Article**
 
-## Support
+    At the last part of the article, you'll see the comments section. 
 
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+    Write down your thoughts and I'll reply. (　ﾟ∀ﾟ) ﾉ♡
+
+
+##LICENSE
+
+[The MIT License (MIT)](https://github.com/zchen9/zchen9.github.io/blob/master/LICENSE)

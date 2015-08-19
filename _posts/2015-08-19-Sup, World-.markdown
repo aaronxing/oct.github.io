@@ -1,0 +1,13 @@
+﻿---
+layout: post
+title: "Sup, World"
+date: 2015-08-19
+categories: Intro
+featured_image: /images/cover.jpg
+---
+
+第一次尝试用git来弄一个小project,做了一个自己的blog。感谢张大佬的亲临指点。
+
+以后应该会尝试在这里写一些自己的见闻牢骚还有学习经验。
+
+先到这吧。
